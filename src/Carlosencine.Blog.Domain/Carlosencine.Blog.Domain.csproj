@@ -4,4 +4,12 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Agregates\User\Entities\" />
+    <Folder Include="Agregates\User\Interfaces\Services\" />
+    <Folder Include="Agregates\User\Interfaces\Repository\" />
+    <Folder Include="Agregates\User\Validators\" />
+    <Folder Include="Agregates\User\Services\" />
+  </ItemGroup>
+
 </Project>
